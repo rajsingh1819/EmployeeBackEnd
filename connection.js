@@ -5,7 +5,7 @@ var con = mysql.createConnection({
   port: "3306",
   host: "localhost",
   user: "root",
-  password: "Admin27281819",
+  password: "  ",   //if did you set your MySql Password then MySql password write here.but first create your Mysql table
   database: "userData",
 });
 
